@@ -1,3 +1,8 @@
+> ## Fork 说明
+>
+> 本仓库 fork 自 [`yamadafz/ok-ww-char-code`](https://github.com/yamadafz/ok-ww-char-code)，供 [`adream114514/ok-ww-update`](https://github.com/adream114514/ok-ww-update) 里恢复的「角色代码」页使用。
+> GitHub Actions（`.github/workflows/build.yml`）每天从上游拉取新的 `codes/*.zip`，并在 `codes/` 有改动时自动重新生成 `teams.json` 和 `teams/*.json`，所有链接都指向本仓库。
+
 <!-- 本仓库为下线项目的抢救镜像，说明见下 -->
 
 > ## 镜像说明 / Mirror notice
@@ -8,7 +13,7 @@
 
 # 鸣潮角色配置代码仓库 (Wuthering Waves Character Codes)
 
-[English Version](#-english-documentation) | [在线浏览与下载平台](https://github.com/yamadafz/ok-ww-char-code) | [teams.json 全量接口](https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams.json)
+[English Version](#-english-documentation) | [在线浏览与下载平台](https://github.com/adream114514/ok-ww-char-code) | [teams.json 全量接口](https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams.json)
 
 本项目是《鸣潮》（Wuthering Waves）角色代码与配队脚本配置的静态发布与分发仓库。所有压缩包均按配队自动分组呈现，并提供静态网页浏览、直链下载以及 JSON API 数据接口。
 
@@ -140,10 +145,10 @@ Aemeath_Augusta_Baizhi_11_1.0.0.zip
 
 | 资源 | 访问地址 | 说明 |
 | :--- | :--- | :--- |
-| **在线静态展示页** | [raw.githubusercontent.com/yamadafz/ok-ww-char-code/main](https://github.com/yamadafz/ok-ww-char-code) | 包含搜索、筛选与下载的前端页面 |
-| **全量队伍配置接口** | `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams.json` | 包含所有队伍、角色及下载直链汇总 |
-| **单队伍配置接口** | `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/<队伍名>.json` | 单个队伍的详细元数据及版本下载列表 |
-| **ZIP 文件直链** | `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/<文件名>.zip` | 压缩包直接下载链接 |
+| **在线静态展示页** | [raw.githubusercontent.com/adream114514/ok-ww-char-code/main](https://github.com/adream114514/ok-ww-char-code) | 包含搜索、筛选与下载的前端页面 |
+| **全量队伍配置接口** | `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams.json` | 包含所有队伍、角色及下载直链汇总 |
+| **单队伍配置接口** | `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/<队伍名>.json` | 单个队伍的详细元数据及版本下载列表 |
+| **ZIP 文件直链** | `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/<文件名>.zip` | 压缩包直接下载链接 |
 
 ---
 
@@ -207,7 +212,7 @@ A static repository and download catalog for Wuthering Waves character codes and
 
 ### API Endpoints
 
-- **Web Portal**: [https://github.com/yamadafz/ok-ww-char-code](https://github.com/yamadafz/ok-ww-char-code)
-- **All Teams Index**: `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams.json`
-- **Individual Team API**: `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/teams/<team_slug>.json`
-- **Direct ZIP Download**: `https://raw.githubusercontent.com/yamadafz/ok-ww-char-code/main/codes/<filename>.zip`
+- **Web Portal**: [https://github.com/adream114514/ok-ww-char-code](https://github.com/adream114514/ok-ww-char-code)
+- **All Teams Index**: `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams.json`
+- **Individual Team API**: `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/<team_slug>.json`
+- **Direct ZIP Download**: `https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/<filename>.zip`

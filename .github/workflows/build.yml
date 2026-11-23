@@ -1,0 +1,58 @@
+name: Sync codes from upstream + rebuild index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "codes/**"
+      - "scripts/**"
+      - "package.json"
+  schedule:
+    - cron: "41 3 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # generate.js reads each zip's commit time from git log
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Configure git
+        run: |
+          git config user.name  "adream114514"
+          git config user.email "360310421+adream114514@users.noreply.github.com"
+
+      - name: Pull new codes from yamadafz/ok-ww-char-code
+        run: |
+          git fetch --no-tags https://github.com/yamadafz/ok-ww-char-code.git main
+          # Adds or updates zips that upstream has; never deletes ours.
+          git checkout FETCH_HEAD -- codes/
+          if ! git diff --cached --quiet -- codes/; then
+            git commit -m "sync: new codes from yamadafz/ok-ww-char-code"
+          fi
+
+      - name: Rebuild teams.json and teams/*.json
+        run: |
+          npm ci
+          npm run build
+          git add teams.json teams/
+          if ! git diff --cached --quiet; then
+            git commit -m "build: regenerate teams.json"
+          fi
+
+      - name: Push
+        run: git push origin HEAD:main

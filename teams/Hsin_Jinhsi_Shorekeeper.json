@@ -6,7 +6,7 @@
     "Jinhsi",
     "Shorekeeper"
   ],
-  "totalCodes": 1,
+  "totalCodes": 2,
   "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Hsin_Jinhsi_Shorekeeper.json",
   "codes": [
     {
@@ -27,6 +27,25 @@
       "sizeFormatted": "47.06 KB",
       "timestamp": 1794167616,
       "modifiedAt": "2026-11-08T19:53:36.000Z"
+    },
+    {
+      "filename": "Hsin_Jinhsi_Shorekeeper_阿瞎_1.0.21.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+      "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+      "name": "Hsin_Jinhsi_Shorekeeper",
+      "description": "心汐守轴，120共效心已跑通，今汐全程不开大招无共效需求，也不要手动开启大招，大招问题等待后续优化。轴参考B站@一只迷茫的猪基础上做出改动。后续可能会继续优化轴长问题，争取压进30秒",
+      "author": "阿瞎",
+      "version": "1.0.21",
+      "team": "Hsin, Jinhsi, Shorekeeper",
+      "members": [
+        "Hsin",
+        "Jinhsi",
+        "Shorekeeper"
+      ],
+      "size": 13580,
+      "sizeFormatted": "13.26 KB",
+      "timestamp": 1795495272,
+      "modifiedAt": "2026-11-24T04:41:12.000Z"
     }
   ]
 }

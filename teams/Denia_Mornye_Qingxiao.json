@@ -6,7 +6,7 @@
     "Mornye",
     "Qingxiao"
   ],
-  "totalCodes": 3,
+  "totalCodes": 4,
   "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Denia_Mornye_Qingxiao.json",
   "codes": [
     {
@@ -27,6 +27,25 @@
       "sizeFormatted": "3.4 KB",
       "timestamp": 1794167616,
       "modifiedAt": "2026-11-08T19:53:36.000Z"
+    },
+    {
+      "filename": "Denia_Mornye_Qingxiao_伊织x_1.0.0.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E4%BC%8A%E7%BB%87x_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E4%BC%8A%E7%BB%87x_1.0.0.zip",
+      "name": "Denia_Mornye_Qingxiao",
+      "description": "- 轴演示：BV1tdn76nEbn\n\n- 角色共鸣链最低适配情况：0清3达3莫\n- 测试共鸣效率值：清宵118、达妮娅140、莫宁254\n- 角色执行一号位：清宵\n- 其他必要备注：莫宁精5异响（或可保证莫宁3A-Z-E-Z后满协奏的高阶专武）",
+      "author": "伊织x",
+      "version": "1.0.0",
+      "team": "Denia, Mornye, Qingxiao",
+      "members": [
+        "Denia",
+        "Mornye",
+        "Qingxiao"
+      ],
+      "size": 64989,
+      "sizeFormatted": "63.47 KB",
+      "timestamp": 1795495272,
+      "modifiedAt": "2026-11-24T04:41:12.000Z"
     },
     {
       "filename": "Denia_Mornye_Qingxiao_楽山_1.0.0.zip",

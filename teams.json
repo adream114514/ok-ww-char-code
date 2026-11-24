@@ -2,8 +2,8 @@
   "repository": "adream114514/ok-ww-char-code",
   "pageUrl": "https://github.com/adream114514/ok-ww-char-code",
   "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams.json",
-  "totalTeams": 50,
-  "totalCodes": 72,
+  "totalTeams": 54,
+  "totalCodes": 82,
   "teams": [
     {
       "team": "Baizhi, Phrolova, Verina",
@@ -128,9 +128,28 @@
         "Cartethyia",
         "Denia"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Aemeath_Cartethyia_Denia.json",
       "codes": [
+        {
+          "filename": "Aemeath_Cartethyia_Denia_なななのです_1.1.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.1.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.1.0.zip",
+          "name": "Aemeath_Cartethyia_Denia",
+          "description": "【满链4C速刷】【副本一炮穿怪】高链爱弥斯队。\n4C：开炮→击杀Boss→原地等Boss刷新（期间顺手捡声骸）→锁敌→普攻一下→开炮，循环刷取；不走框架的找声骸、点重新开始流程（进战斗8秒后buff不满，伤害骤降，框架流程赶不上）。一炮没打死就爱弥斯/达妮娅互切，进入完整循环轴。\n日常副本&聚落：进图后自动等强化重击刷新，E变机兵开炮，出伤前长按CAPS LOCK。\n1.共鸣链：测试配置6爱3达6卡；非6爱也能用，但刚需3达（达妮娅流程是R1→A1234→E1E2R2Q，非3达这里R2不满，做了兜底，会一直打到R2满）；非6爱一炮伤害可能穿不完\n2.共鸣效率：测试值爱弥斯111.6%，达妮娅121.6%\n3.执行一号位：爱弥斯（编队1爱2达3卡）；开战时在场的不是爱弥斯也会自动切给她开场\n4.自动切换治疗位：不开启（队伍里没有治疗）\n5.备注：卡提希娅只单挂，不会被切上场；副本开场那一炮出伤前会长按CAPS LOCK，不需要的话把Aemeath.py里的CAPS_HOLD_TIME改成0；队伍没有治疗，长时间连续刷取血量会下降，必要时手动回血\n6.场景：刷4C、日常副本&聚落\n感谢Claude感谢Opus5.5，当然也感谢作者的ok-ww",
+          "author": "なななのです",
+          "version": "1.1.0",
+          "team": "Aemeath, Cartethyia, Denia",
+          "members": [
+            "Aemeath",
+            "Cartethyia",
+            "Denia"
+          ],
+          "size": 25734,
+          "sizeFormatted": "25.13 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
+        },
         {
           "filename": "Aemeath_Cartethyia_Denia_なななのです_1.1.1.zip",
           "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Aemeath_Cartethyia_Denia_%E3%81%AA%E3%81%AA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99_1.1.1.zip",
@@ -219,6 +238,38 @@
           "sizeFormatted": "91.56 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Aemeath, Denia, Mornye",
+      "slug": "Aemeath_Denia_Mornye",
+      "members": [
+        "Aemeath",
+        "Denia",
+        "Mornye"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Aemeath_Denia_Mornye.json",
+      "codes": [
+        {
+          "filename": "Aemeath_Denia_Mornye_绯华永眠_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Aemeath_Denia_Mornye_%E7%BB%AF%E5%8D%8E%E6%B0%B8%E7%9C%A0_1.0.0.zip",
+          "name": "Aemeath_Denia_Mornye",
+          "description": "学妹聚爆，基于基本角色代码微调",
+          "author": "绯华永眠",
+          "version": "1.0.0",
+          "team": "Aemeath, Denia, Mornye",
+          "members": [
+            "Aemeath",
+            "Denia",
+            "Mornye"
+          ],
+          "size": 5224,
+          "sizeFormatted": "5.1 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         }
       ]
     },
@@ -549,7 +600,7 @@
         "Phrolova",
         "Verina"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Buling_Phrolova_Verina.json",
       "codes": [
         {
@@ -570,6 +621,25 @@
           "sizeFormatted": "18.57 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        },
+        {
+          "filename": "弗卜维施法顺序v1.2.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/%E5%BC%97%E5%8D%9C%E7%BB%B4%E6%96%BD%E6%B3%95%E9%A1%BA%E5%BA%8Fv1.2.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/%E5%BC%97%E5%8D%9C%E7%BB%B4%E6%96%BD%E6%B3%95%E9%A1%BA%E5%BA%8Fv1.2.0.zip",
+          "name": "弗卜维_施法时序",
+          "description": "卜灵、弗洛洛、维里奈固定启动与循环轴；基于24 FPS目标视频手动时间线完成1.2.0时序调整；处决 F 插在 phase 7 与 phase 14 的固定位置（循环第一轮不打），待实机复测。",
+          "author": "Codex",
+          "version": "1.2.0",
+          "team": "Buling, Phrolova, Verina",
+          "members": [
+            "Buling",
+            "Phrolova",
+            "Verina"
+          ],
+          "size": 19844,
+          "sizeFormatted": "19.38 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         }
       ]
     },
@@ -1086,7 +1156,7 @@
         "Mornye",
         "Qingxiao"
       ],
-      "totalCodes": 3,
+      "totalCodes": 4,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Denia_Mornye_Qingxiao.json",
       "codes": [
         {
@@ -1107,6 +1177,25 @@
           "sizeFormatted": "3.4 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        },
+        {
+          "filename": "Denia_Mornye_Qingxiao_伊织x_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E4%BC%8A%E7%BB%87x_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_%E4%BC%8A%E7%BB%87x_1.0.0.zip",
+          "name": "Denia_Mornye_Qingxiao",
+          "description": "- 轴演示：BV1tdn76nEbn\n\n- 角色共鸣链最低适配情况：0清3达3莫\n- 测试共鸣效率值：清宵118、达妮娅140、莫宁254\n- 角色执行一号位：清宵\n- 其他必要备注：莫宁精5异响（或可保证莫宁3A-Z-E-Z后满协奏的高阶专武）",
+          "author": "伊织x",
+          "version": "1.0.0",
+          "team": "Denia, Mornye, Qingxiao",
+          "members": [
+            "Denia",
+            "Mornye",
+            "Qingxiao"
+          ],
+          "size": 64989,
+          "sizeFormatted": "63.47 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         },
         {
           "filename": "Denia_Mornye_Qingxiao_楽山_1.0.0.zip",
@@ -1385,6 +1474,38 @@
       ]
     },
     {
+      "team": "Hiyuki, Sanhua, Verina",
+      "slug": "Hiyuki_Sanhua_Verina",
+      "members": [
+        "Hiyuki",
+        "Sanhua",
+        "Verina"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Hiyuki_Sanhua_Verina.json",
+      "codes": [
+        {
+          "filename": "Hiyuki_Sanhua_Verina_我不是懒狗_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hiyuki_Sanhua_Verina_%E6%88%91%E4%B8%8D%E6%98%AF%E6%87%92%E7%8B%97_1.0.0.zip",
+          "name": "Hiyuki_Sanhua_Verina",
+          "description": "大世界队伍，超低配队，都是0+0，共率高点不卡手，可以打出三居合",
+          "author": "我不是懒狗",
+          "version": "1.0.0",
+          "team": "Hiyuki, Sanhua, Verina",
+          "members": [
+            "Hiyuki",
+            "Sanhua",
+            "Verina"
+          ],
+          "size": 4448,
+          "sizeFormatted": "4.34 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
+        }
+      ]
+    },
+    {
       "team": "Hsin, Jinhsi, Shorekeeper",
       "slug": "Hsin_Jinhsi_Shorekeeper",
       "members": [
@@ -1392,7 +1513,7 @@
         "Jinhsi",
         "Shorekeeper"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Hsin_Jinhsi_Shorekeeper.json",
       "codes": [
         {
@@ -1413,6 +1534,57 @@
           "sizeFormatted": "47.06 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        },
+        {
+          "filename": "Hsin_Jinhsi_Shorekeeper_阿瞎_1.0.21.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Jinhsi_Shorekeeper_%E9%98%BF%E7%9E%8E_1.0.21.zip",
+          "name": "Hsin_Jinhsi_Shorekeeper",
+          "description": "心汐守轴，120共效心已跑通，今汐全程不开大招无共效需求，也不要手动开启大招，大招问题等待后续优化。轴参考B站@一只迷茫的猪基础上做出改动。后续可能会继续优化轴长问题，争取压进30秒",
+          "author": "阿瞎",
+          "version": "1.0.21",
+          "team": "Hsin, Jinhsi, Shorekeeper",
+          "members": [
+            "Hsin",
+            "Jinhsi",
+            "Shorekeeper"
+          ],
+          "size": 13580,
+          "sizeFormatted": "13.26 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Hsin, Lily, Suoming",
+      "slug": "Hsin_Lily_Suoming",
+      "members": [
+        "Hsin",
+        "Lily",
+        "Suoming"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Hsin_Lily_Suoming.json",
+      "codes": [
+        {
+          "filename": "Hsin_Lily_Suoming_楽山_1.0.1.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Lily_Suoming_%E6%A5%BD%E5%B1%B1_1.0.1.zip",
+          "name": "Hsin_Lily_Suoming",
+          "description": "心锁莉轮椅轴\n样本：61心 01锁 00莉\n共效：心125 锁130 莉莉260\n位置：一号位莉莉 二号位锁瞑 三号位心\n场景：【矩阵/深塔】\n容错率高，没什么好说的，基础队伍 比较稳定",
+          "author": "楽山",
+          "version": "1.0.1",
+          "team": "Hsin, Lily, Suoming",
+          "members": [
+            "Hsin",
+            "Lily",
+            "Suoming"
+          ],
+          "size": 47558,
+          "sizeFormatted": "46.44 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         }
       ]
     },
@@ -1424,9 +1596,28 @@
         "Rover",
         "Suisui"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Hsin_Rover_Suisui.json",
       "codes": [
+        {
+          "filename": "Hsin_Rover_Suisui_心雷穗标准轴_Alchemisttt_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Rover_Suisui_%E5%BF%83%E9%9B%B7%E7%A9%97%E6%A0%87%E5%87%86%E8%BD%B4_Alchemisttt_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Rover_Suisui_%E5%BF%83%E9%9B%B7%E7%A9%97%E6%A0%87%E5%87%86%E8%BD%B4_Alchemisttt_1.0.0.zip",
+          "name": "Hsin_Rover_Suisui_心雷穗标准轴",
+          "description": "心雷穗 25 秒标准轴（简单合轴 9.2 万 DPS）。来源：B站 猫眼石攻略组《心雷穗25秒标准轴教学》。队伍：1=心月狐 / 2=雷主(漂泊者·导电) / 3=穗穗；开局必须由穗穗首发（代码会自己快速交棒到 3 号位）。【配置·共鸣链/武器】心月狐 01 ／ 雷主 00 ／ 穗穗 2。【共效】心月狐 ≥125% ／ 雷主 ≥135% ／ 穗穗 ≥260%（低于这个值会出现「协奏顶不满 → 下一棒吃不到变奏」）。【启动轴】穗a123Ea → 雷aa → 穗a12[合轴] → 雷a123[合轴] → 穗a12EQR[变奏] → 雷aE(补Q) → 心a12[合轴] → 雷aaERa[变奏] → 心aZQRea12Ea1234ZR → 变奏穗。【循环轴】穗[变]a → 雷aa → 穗a12 → 雷a123 → 穗a12E(a34)QR → 雷[变]aE(补Q) → 心a12 → 雷aERa → 心[变]aZQRea12Ea1234ZR → 变奏穗。【实现要点】合轴（穗↔雷、心→雷）用「数连段 + 提前按数字键 + 窗口内狂按 + 队伍UI确认」实现，不识别画面动作相位；窗口内没切过去就走保守分支（作者说两套耗时几乎一样）。心月狐的【终结重击·临寰宇】用「长按左键直到队伍 HUD 连续消失 3 帧」确认，没确认就补一段普攻再按（最多 2 轮）；【二段大·万阙垂天】只在确认临寰宇出手后才按 R（否则会放出【借相·应世】把心切回应世相）。雷主**先打出强化E(超负荷) 再放大招**。【环境】1920×1080 全屏窗口；已在「残响之塔·第1层」实测跑通启动轴 + 循环轴，循环轴的长时稳定性仍在观察；时间常数已按本机实机录像校准，换机器/帧率可能需要微调。",
+          "author": "Alchemisttt",
+          "version": "1.0.0",
+          "team": "Hsin, Rover, Suisui",
+          "members": [
+            "Hsin",
+            "Rover",
+            "Suisui"
+          ],
+          "size": 84861,
+          "sizeFormatted": "82.87 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
+        },
         {
           "filename": "Hsin_Rover_Suisui_楽山_1.1.0.zip",
           "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Hsin_Rover_Suisui_%E6%A5%BD%E5%B1%B1_1.1.0.zip",
@@ -1641,7 +1832,7 @@
         "Mornye",
         "Rebecca"
       ],
-      "totalCodes": 1,
+      "totalCodes": 2,
       "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Lucy_Mornye_Rebecca.json",
       "codes": [
         {
@@ -1662,6 +1853,25 @@
           "sizeFormatted": "45.71 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        },
+        {
+          "filename": "Lucy_Mornye_Rebecca_芝士奶酪_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/Lucy_Mornye_Rebecca_%E8%8A%9D%E5%A3%AB%E5%A5%B6%E9%85%AA_1.0.0.zip",
+          "name": "Lucy_Mornye_Rebecca-5r双处决",
+          "description": "【使用说明｜露西·丽贝卡·莫宁 5R双处决】\n1. 共鸣链：最低适配【待测试】；实机测试配置：露西61（专武）、丽贝卡01（专武）、莫宁10。以上是测试配置，暂不代表最低要求。\n2. 共鸣效率：最低适配【待测试】；实机测试值：露西108.4%、丽贝卡149.2%、莫宁261.8%。武器/声骸/效率变化可能影响循环。\n3. 一号位：露西。\n4. 自动切换治疗位：关闭 OK-WW 的“开局切奶妈/自动切治疗位”功能，避免打乱开场角色。\n5. 必要提醒：本轴适用于深塔和矩阵。开场需要完成自动索敌确认，再执行露西Z—闪避—续Z。首次使用请实机检查切人、技能及预输入是否正常。\n6. 轴特色：5R双处决循环；F/Q机会技能、特殊Z跨STEP预输入和HOLD继承、丽贝卡强化Z消费确认及偏斜CD保护。\n7. 版本规范：当前1.0.0（按现有版本保留）。\n联系：3群，QQ 1551547950。",
+          "author": "芝士奶酪",
+          "version": "1.0.0",
+          "team": "Lucy, Mornye, Rebecca",
+          "members": [
+            "Lucy",
+            "Mornye",
+            "Rebecca"
+          ],
+          "size": 65167,
+          "sizeFormatted": "63.64 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         }
       ]
     },
@@ -1937,6 +2147,38 @@
           "sizeFormatted": "35.68 KB",
           "timestamp": 1794167616,
           "modifiedAt": "2026-11-08T19:53:36.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Buling, Hsin, Suoming",
+      "slug": "Buling_Hsin_Suoming",
+      "members": [
+        "Buling",
+        "Hsin",
+        "Suoming"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/teams/Buling_Hsin_Suoming.json",
+      "codes": [
+        {
+          "filename": "心鎖卜_奉眠_1.0.0.zip",
+          "downloadUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/%E5%BF%83%E9%8E%96%E5%8D%9C_%E5%A5%89%E7%9C%A0_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/adream114514/ok-ww-char-code/main/codes/%E5%BF%83%E9%8E%96%E5%8D%9C_%E5%A5%89%E7%9C%A0_1.0.0.zip",
+          "name": "心鎖卜",
+          "description": "鳴潮 ok-ww 自動戰鬥｜心／鎖暝／卜靈\n━━━━━━━━━━━━━━━━━━\n\n【軸來源】【待填：軸作者】，程式架構改自心鎖守／心鎖維，經 AI 修改並實測\n　輪轉順序照原作者，不做更動\n\n【適用場景】【日常】【海墟】【深塔】【矩陣】\n日常、冥歌海墟、深塔、矩陣均已實測可完整跑完\n\n【適配說明】\n▸ 一號位：不限，程式按角色名切人，編隊順序不限\n▸ 共鳴鏈：以下為作者實測鏈數，更低未測試\n▸ 共鳴效率：以下為作者實測值，請依自身練度調整\n▸ 卜靈協奏需求高，主要靠 R 收尾補滿；R 沒好的那圈會多花時間打協奏\n\n【作者隊伍配置】\n▸ 心（主C）\n　共鳴鏈：3 鏈\n　武器：玉闕玄華 精1\n　共鳴模態：同奏（必要）\n　共鳴效率：119.2%\n▸ 鎖暝\n　共鳴鏈：0 鏈\n　武器：千古 精1\n　主聲駭：暗鳥（必要）\n　共鳴效率：130.8%\n▸ 卜靈\n　共鳴鏈：6 鏈\n　武器：奇幻變奏 精3 或 探幽 精5\n　共鳴效率：199%\n　主聲駭：解形煞\n　聲駭套裝：茜染懷想之花（34311）\n\n【基本設定】\n▸ 使用共鳴解放：開啟（必要）\n\n━━━━━━━━━━━━━━━━━━\n🔄 輪轉邏輯\n━━━━━━━━━━━━━━━━━━\n\n【啟動軸】卜靈起手\n▸ 卜靈\n　A1A2 → 跳A → 重擊 → E → 跳A → 重擊 → Q → R → 協奏滿變奏心\n▸ 心（應世相）\n　A → 重擊（步紅塵）→ R 轉相 → A → 照世相 E → 同奏切鎖暝\n▸ 鎖暝\n　R → Q（暗鳥）→ 同奏切心\n▸ 心（照世相）\n　A1A2 → 閃避 → A1A2A3 → 重擊（臨寰宇）→ Q → [沒怪中鍵鎖敵 ≤3 秒] → 萬闕垂天 → E → 協奏滿變奏鎖暝\n\n【循環軸】鎖暝起手\n▸ 鎖暝：A1A2A3 → [有處決提示就處決] → A → 切心\n▸ 心：A → A → 切鎖暝\n▸ 鎖暝：A → 切卜靈\n▸ 卜靈：A1A2 → 跳A → 重擊 → E → 跳A → 重擊 → Q → R → 協奏滿變奏鎖暝\n▸ 鎖暝：E（無捨念）→ 重擊（刻心念）→ Q（暗鳥）→ 協奏滿變奏心\n▸ 心（應世相）：重擊（步紅塵）→ R 轉相 → A → 照世相 E → 同奏切鎖暝\n▸ 鎖暝：R → 同奏切心\n▸ 心（照世相）：同啟動軸 → 協奏滿變奏鎖暝\n\n💡 每一棒交棒都只認頭像光圈，協奏不滿不切\n　任何一棒普通入場，該圈同奏鏈會斷\n💡 卜靈重擊照原版卦象規則：只剩 1 個卦象不按（避免放出自傷的鬼門占卦），2 個以上按到剩不到 2 個\n💡 開大前沒怪會中鍵重新鎖敵，時間到照放；等完會再確認 R 位，不會放成借相\n\n━━━━━━━━━━━━━━━━━━\n🛡 保底（條件不符原軸時才觸發，不改順序）\n━━━━━━━━━━━━━━━━━━\n\n▸ 鎖暝刻心念前妄執沒滿：普攻補到滿再出無捨念\n▸ 心進場應世心沒滿：普攻補到花圖示亮再按住出步紅塵\n▸ 卜靈 R 沒好：普攻／重擊打協奏，R 亮了馬上放\n▸ 暗鳥放不出來：按到上限就往下走，不會卡住\n\n━━━━━━━━━━━━━━━━━━\n🎯 鎖定與收手\n━━━━━━━━━━━━━━━━━━\n\n▸ 鎖定丟失自動重鎖\n　有血條但沒鎖定、或讀不到怪時，每 0.4 秒按一次中鍵重新鎖定\n　Boss 戰不按\n▸ 沒怪自動收手\n　5 秒讀不到怪，或有血條但 4 秒鎖不到，就中斷該圈交回框架，不空揮\n\n━━━━━━━━━━━━━━━━━━\n⚠ 使用注意\n━━━━━━━━━━━━━━━━━━\n▸ 程式不檢查心的形態，大世界連打或換場後，開自動戰鬥前請確認心的 R 位是「轉相」圖示（應世相）\n▸ 以上僅供參考，請自行測試你的角色能否穩定運行\n━━━━━━━━━━━━━━━━━━",
+          "author": "奉眠",
+          "version": "1.0.0",
+          "team": "Buling, Hsin, Suoming",
+          "members": [
+            "Buling",
+            "Hsin",
+            "Suoming"
+          ],
+          "size": 43339,
+          "sizeFormatted": "42.32 KB",
+          "timestamp": 1795495272,
+          "modifiedAt": "2026-11-24T04:41:12.000Z"
         }
       ]
     },
